@@ -1,0 +1,4 @@
+---
+# input for the mail subject and mail body
+subject: "Example subject"
+body: "Hello {name},<br><br>this is an example email."
